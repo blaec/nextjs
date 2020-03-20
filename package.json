@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/blaec/nextjs/issues"
   },
-  "homepage": "https://github.com/blaec/nextjs#readme"
+  "homepage": "https://github.com/blaec/nextjs#readme",
+  "dependencies": {
+    "next": "^9.3.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }
